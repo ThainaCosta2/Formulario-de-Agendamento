@@ -1,4 +1,4 @@
-# Formulario de Agendamento 👩🏻‍💻
+# Formulário de Agendamento 👩🏻‍💻
 Projeto de um Formulário de Agendamento de Consulta, utilizando a linguagem de programação Python, a biblioteca Tkinter e SQLite.
 
 <div>
