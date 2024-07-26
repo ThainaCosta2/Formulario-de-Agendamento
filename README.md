@@ -4,7 +4,7 @@ Projeto de um Formulário de Agendamento de Consulta, utilizando a linguagem de 
 <div>
 <img src="https://github.com/user-attachments/assets/e2a95b1c-9c3d-45eb-8750-4776f888c46e" width="600px" />
 
-# Sobre o Projeto 📑
+# Sobre o Projeto 📃
 Com esse projeto de Formulário de Agendamento de Consulta, em que há o cadastro do cliente e controle por parte do admin.
 
 # Como Funciona 🎯
