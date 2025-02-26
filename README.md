@@ -5,7 +5,7 @@ Projeto de um Formulário de Agendamento de Consulta, utilizando a linguagem de 
 <img src="https://github.com/user-attachments/assets/e2a95b1c-9c3d-45eb-8750-4776f888c46e" width="600px" />
 
 # Sobre o Projeto 📃
-Com esse projeto de Formulário de Agendamento de Consulta, visa proporcionar uma experiência fluida tanto para os administradores quanto para os clientes, facilitando o gerenciamento de consultas médicas. Além das funcionalidades básicas de agendamento, a aplicação pode incluir a opção de atualizar informações, permitindo que os administradores mantenham os dados sempre atualizados. A interface construída com Tkinter assegura que o sistema seja intuitivo e acessível, permitindo que até mesmo usuários com pouca experiência em tecnologia possam utilizá-lo com facilidade.
+Esse projeto de Formulário de Agendamento de Consulta, visa proporcionar uma experiência fluida tanto para os administradores quanto para os clientes, facilitando o gerenciamento de consultas médicas. Além das funcionalidades básicas de agendamento, a aplicação pode incluir a opção de atualizar informações, permitindo que os administradores mantenham os dados sempre atualizados. A interface construída com Tkinter assegura que o sistema seja intuitivo e acessível, permitindo que até mesmo usuários com pouca experiência em tecnologia possam utilizá-lo com facilidade.
 
 # Como Funciona 🎯
 <div>
