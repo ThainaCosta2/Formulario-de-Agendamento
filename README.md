@@ -23,9 +23,8 @@ Esse projeto de Formulário de Agendamento de Consulta, visa proporcionar uma ex
 As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
-    <th>Backend</th>
-  </thead>
-  <tbody>
+    <tbody>
+      <th>Back-end</th>
     <tr>
       <td>Python</td>
     </tr>
@@ -35,6 +34,7 @@ As seguintes ferramentas que foram utilizadas na construção do projeto:
     <tr>
       <td>SQLite</td>
     </tr>
-  </tbody>
+    </tbody>
+  </thead>
 </table>
 
