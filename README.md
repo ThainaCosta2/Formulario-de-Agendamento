@@ -1,4 +1,4 @@
-# Formulário de Agendamento 👩🏻‍💻
+# Formulário de Agendamento 📄💻
 
 Projeto de um Formulário de Agendamento de Consultas, utilizando Python, a biblioteca Tkinter e SQLite. Esse projeto, visa proporcionar uma experiência simples tanto para os administradores quanto para os clientes, facilitando o gerenciamento de consultas médicas.
 
